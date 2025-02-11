@@ -11,7 +11,7 @@
 
 1. **Clone the Repository:**
    \`\`\`bash
-   git clone https://github.com/MIRNOMAN/Blog-Management-server.git
+   git clone https://github.com/Masud-Rahman22/Blog-Management-server
    \`\`\`
 
 2. **Navigate to the project directory:**
@@ -49,5 +49,5 @@
 
 ## Contact Information
 
-If you have any questions or need further assistance, feel free to contact me at [abdullahalnoman1509@gmail.com](mailto:abdullahalnoman1509@gmail.com).
+If you have any questions or need further assistance, feel free to contact me at [abdullahalnoman1509@gmail.com](mailto:masudrhmn6560@gmail.com).
 
